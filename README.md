@@ -78,7 +78,7 @@ I’m an undergraduate student at the **University of Athens**, studying **Infor
 
 ## 📫 Contact Me
 
-<a href="www.linkedin.com/in/andreakis-dimitris">
+<a href="https://www.linkedin.com/in/andreakis-dimitris">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" />
 </a>
 <a href="mailto:andreakisdimitrios@gmail.com">
