@@ -23,8 +23,14 @@ I’m an undergraduate student at the **University of Athens**, studying **Infor
 <a href="https://www.python.org">
   <img src="https://skillicons.dev/icons?i=py" width="50" height="50" />
 </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=js" width="50" height="50" />
+</a>
 
 ## Other Tools
+<a href="https://react.dev/">
+  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" />
+</a>
 <a href="https://www.arduino.cc/">
   <img src="https://skillicons.dev/icons?i=arduino" width="50" height="50" />
 </a>
